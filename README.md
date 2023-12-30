@@ -10,6 +10,12 @@ it is online at:
 https://fatal-police-shootings.web.app/
 please leave me a feedback :)
 
+##Contributor List:
+Pranav Kute
+Rushabh Maru
+Aayush Mehta
+Priyansh Agarawal
+
 
 
 
